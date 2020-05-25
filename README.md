@@ -1,0 +1,1 @@
+I wanted to try Hazelcast with Spring Boot. I wondered what happens if I use Concurrent HashMap. I looked at whether Hazelcast gives me freedom.
